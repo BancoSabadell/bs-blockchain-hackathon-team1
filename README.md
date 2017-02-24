@@ -16,14 +16,14 @@ To get a better idea of the network and its behavior you can have a look at the 
 
 Connecting to your `geth` instance through **JSON-RPC**:
 
-* host: `[pending]`
+* host: `hackathon-team1.westeurope.cloudapp.azure.com`
 * port: `8545`
 
 In case your project depends on additional software (e.g. Node) you have full access to the machine via **SSH**:
 
-* host: `[pending]`
-* user: `[pending]`
-* pasword: `[pending]`
+* host: `hackathon-team1.westeurope.cloudapp.azure.com`
+* user: `team`
+* pasword: `2MdUw5EGxFaN`
 
 ##BSToken contract
 
@@ -416,17 +416,17 @@ The full contract(s) source code can be found [here](https://github.com/BancoSab
 
 ###Contract address
 
-The BS Token contract is deployed at address: **`0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b`**
+The BS Token contract is deployed at address: **`0x3a4a8ba93b6d8d9514e5b92e3f483d1099901a6f`**
 
 ###Accounts per team (with 1000 BST and 100 ETH balances)
 
 account | password
 ---	 | ---
-0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b | 111111
-0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b | 222222
-0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b | 333333
-0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b | 444444
-0x6c8f2a135f6ed072de4503bd7c4999a1a17f824b | 555555
+0x589b9ed0d7c3b84af714ae902c6112d4ed6dc0ed | WKZSIvbV
+0x2b534463c1395058429682077e4fd966839cc24e | rpAcQ039
+0x5112406eb45f9ef6ef05b0e4e640596c60d17584 | FDmjSwXl
+0x0794cba2eed14c47ba11854ceadfc7cddf41225f | inZ9E0Re
+0x4b576a08ef1cd731ca56bace1f8178d5b9df5d83 | XbppF4Nz
 
 ###Sample integration (Escrow contract)
 
